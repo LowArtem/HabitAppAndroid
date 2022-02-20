@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "HabitAppAndroid"
 include ':app'
+include ':data'
+include ':domen'
